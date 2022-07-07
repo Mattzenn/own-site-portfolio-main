@@ -1,0 +1,153 @@
+.whyme {
+  width: 100%;
+  background-color: #fff;
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 70px;
+}
+
+.stages__container {
+  text-decoration: none;
+  color: #111;
+}
+
+.whyme__title {
+  position: relative;
+  max-width: calc(100vw - 3em);
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #111;
+  z-index: 2;
+}
+
+.whyme__text {
+  color: #111;
+  position: relative;
+  max-width: calc(100vw - 3em);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0;
+  border-bottom: 2px solid #2BE080;
+  z-index: 2;
+}
+
+.whyme__text_type_noborder {
+  padding-top: 50px;
+  border-bottom: none;
+}
+
+.circle {
+  background-color: rgb(102, 102, 102);
+  border-radius: 50%;
+}
+
+#whyme__circle1 {
+  bottom: 550px;
+  right: -250px;
+  position: absolute;
+}
+
+#whyme__circle1 .circle {
+  width: 800px;
+  height: 800px;
+  background-color: rgb(102, 102, 102);
+  z-index: 1;
+}
+
+#whyme__circle2 {
+  top: 100px;
+  right: 420px;
+  position: absolute;
+}
+
+#whyme__circle2 .circle {
+  width: 100px;
+  height: 100px;
+}
+
+#whyme__circle3 {
+  top: 1000px;
+  left: 420px;
+  position: absolute;
+}
+
+#whyme__circle3 .circle {
+  width: 150px;
+  height: 150px;
+}
+
+#whyme__circle4 {
+  top: -250px;
+  left: -330px;
+  position: absolute;
+}
+
+#whyme__circle4 .circle {
+  width: 1200px;
+  height: 1200px;
+  background-color: #2BE080;
+}
+
+#whyme__circle5 {
+  top: -150px;
+  right: -220px;
+  position: absolute;
+}
+
+#whyme__circle5 .circle {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(102, 102, 102);
+}
+
+#whyme__circle6 {
+  top: 300px;
+  right: 260px;
+  position: absolute;
+}
+
+#whyme__circle6 .circle {
+  width: 50px;
+  height: 50px;
+  background-color: #2BE080;
+}
+
+#whyme__circle7 {
+  bottom: 750px;
+  left: 160px;
+  position: absolute;
+}
+
+#whyme__circle7 .circle {
+  width: 35px;
+  height: 35px;
+  background-color: rgb(102, 102, 102);
+}
+
+@media screen and (max-width: 1024px) {
+  #whyme__circle1 {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .whyme {
+    padding-bottom: 30px;
+  }
+}
+@media screen and (max-width: 750px) {
+  #whyme__circle5 {
+    display: none;
+  }
+
+  #whyme__circle6 {
+    display: none;
+  }
+
+  #whyme__circle3 .circle {
+    background-color: rgb(102, 102, 102);
+  }
+
+  #whyme__circle7 .circle {
+    background-color: #EEFF04;
+  }
+}/*# sourceMappingURL=whyme.css.map */

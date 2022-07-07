@@ -1,0 +1,92 @@
+.request__form-script {
+  width: 100%;
+}
+
+.request-page {
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.request__form {
+  box-sizing: border-box;
+  max-width: 100%;
+  margin: 70px auto 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: none;
+  padding: 0;
+}
+
+.request__input-label {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  color: #242424;
+  width: 100%;
+}
+
+.request__input {
+  font-size: 14px;
+  line-height: 17px;
+  margin: 6px 0;
+  border: none;
+  box-sizing: border-box;
+  border-bottom: 1px solid #242424;
+  padding-bottom: 13px;
+  font-weight: 400;
+  outline: 1px rgb(142, 142, 142);
+}
+
+.request__input_type_main {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid #242424;
+  padding: 0;
+  min-height: 27px;
+  box-sizing: border-box;
+}
+
+.request__input_type_main::-moz-placeholder {
+  color: rgb(142, 142, 142);
+}
+
+.request__input_type_main:-ms-input-placeholder {
+  color: rgb(142, 142, 142);
+}
+
+.request__input_type_main::placeholder {
+  color: rgb(142, 142, 142);
+}
+
+.request__input-error {
+  min-height: 12px;
+  display: inline-block;
+  color: #EE3465;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  margin-bottom: 16px;
+}
+
+.request__input-error_visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.request__button {
+  margin: 40px auto 0 auto;
+}
+
+.request__button_disabled {
+  opacity: 0.6;
+}
+
+@media screen and (max-width: 475px) {
+  .request__form {
+    margin: 15px auto 0;
+  }
+}/*# sourceMappingURL=request.css.map */

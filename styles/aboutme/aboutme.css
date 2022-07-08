@@ -47,7 +47,7 @@
   position: relative;
 }
 .aboutme__link:hover {
-  opacity: 0.7;
+  color: #2be080;
 }
 
 .aboutme__photo {

@@ -32,6 +32,14 @@
     pointer-events: none;
 }
 
+.stages__card:hover {
+
+    .stages__card-title {
+        color: #2be080;
+        border-bottom: 1px solid #2be080;
+    }
+}
+
 .stages__card-image {
     width: 100%;
     object-fit: cover;

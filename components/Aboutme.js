@@ -58,6 +58,10 @@ export default function Aboutme() {
                                 <a target="_blank" rel="noreferrer" href="https://t.me/matvey_zenin"
                                     className="aboutme__link">Telegram</a>
                             </div>
+                            <div className="aboutme__social-item">
+                                <a target="_blank" rel="noreferrer" href="https://disk.yandex.ru/i/N8m6UCNGYcRNPw"
+                                    className="aboutme__link">Резюме</a>
+                            </div>
                         </div>
                     </div>
                     <div>

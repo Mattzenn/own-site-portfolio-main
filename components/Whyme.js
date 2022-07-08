@@ -44,7 +44,7 @@ export default function Whyme() {
                             </a>
                         </li>
                         <li className="stages__card">
-                            <a className="stages__container" href="https://disk.yandex.ru/i/VJxOmdu5cys_JA">
+                            <a className="stages__container" href="https://disk.yandex.ru/i/N8m6UCNGYcRNPw">
                                 <h4 className="stages__card-title wow fadeIn">Резюме</h4>
                             </a>
                         </li>

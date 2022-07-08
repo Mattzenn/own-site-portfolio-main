@@ -183,6 +183,16 @@ function Footer() {
                                     href: "https://t.me/matvey_zenin",
                                     children: "Telegram"
                                 })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: "footer__item",
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                    target: "_blank",
+                                    rel: "noreferrer",
+                                    className: "footer__link",
+                                    href: "https://disk.yandex.ru/i/N8m6UCNGYcRNPw",
+                                    children: "\u0420\u0435\u0437\u044E\u043C\u0435"
+                                })
                             })
                         ]
                     })

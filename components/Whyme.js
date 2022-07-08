@@ -29,22 +29,22 @@ export default function Whyme() {
                     <h2 className="stages__title wow fadeIn">Контактная информация</h2>
                     <ul className="stages__cardlist">
                         <li className="stages__card">
-                            <a className="stages__container" href="https://career.habr.com/mattzen">
+                            <a className="stages__container" target="_blank" rel="noreferrer" href="https://career.habr.com/mattzen">
                                 <h4 className="stages__card-title wow fadeIn">Habr Карьера</h4>
                             </a>
                         </li>
                         <li className="stages__card">
-                            <a className="stages__container" href="https://github.com/Mattzenn">
+                            <a className="stages__container" target="_blank" rel="noreferrer" href="https://github.com/Mattzenn">
                                 <h4 className="stages__card-title wow fadeIn">Github</h4>
                             </a>
                         </li>
                         <li className="stages__card">
-                            <a className="stages__container" href="https://t.me/matvey_zenin">
+                            <a className="stages__container" target="_blank" rel="noreferrer" href="https://t.me/matvey_zenin">
                                 <h4 className="stages__card-title wow fadeIn">Telegram</h4>
                             </a>
                         </li>
                         <li className="stages__card">
-                            <a className="stages__container" href="https://disk.yandex.ru/i/N8m6UCNGYcRNPw">
+                            <a className="stages__container" target="_blank" rel="noreferrer" href="https://disk.yandex.ru/i/N8m6UCNGYcRNPw">
                                 <h4 className="stages__card-title wow fadeIn">Резюме</h4>
                             </a>
                         </li>

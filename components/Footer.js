@@ -14,6 +14,9 @@ export default function Footer() {
                     <div className="footer__item"><a target="_blank" rel="noreferrer" className="footer__link"
                                 href="https://t.me/matvey_zenin">Telegram</a>
                     </div>
+                    <div className="footer__item"><a target="_blank" rel="noreferrer" className="footer__link"
+                                href="https://disk.yandex.ru/i/N8m6UCNGYcRNPw">Резюме</a>
+                    </div>
                 </div>
             </div>
         </section>

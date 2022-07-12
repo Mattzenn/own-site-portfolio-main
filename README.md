@@ -1,6 +1,6 @@
 # own-site-portfolio-main (Next.js) 
 
-### Ссылка на сайт размещенный на сервере: [https://mattzenn-movies.nomoredomains.rocks/](https://matveyzenin.ru/)
+### Ссылка на сайт размещенный на сервере: [https://matveyzenin.ru/](https://matveyzenin.ru/)
 
 ## Описание:
 
